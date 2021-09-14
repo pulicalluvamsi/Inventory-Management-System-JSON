@@ -1,2 +1,3 @@
-# Inventory-Management-System-JSON
-This is a project on Inventory management System with Elite Techno Groups internship
+# ETG_Inventory_Management
+We can purchase items from the market
+After purchase you will recieve bill
